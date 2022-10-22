@@ -1,0 +1,18 @@
+{
+  "name": "Co-Vast",
+  "short_name": "Co-Vast",
+  "lang": "en-us",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/media/icon_hu1e64b12a9afabce8f1e60a8cde1eed5c_14303_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu1e64b12a9afabce8f1e60a8cde1eed5c_14303_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/en/?utm_source=web_app_manifest"
+}
